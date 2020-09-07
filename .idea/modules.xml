@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../fullstack-challenges/01-Ruby/06-Parsing/02-Numbers-and-Letters/.idea/02-Numbers-and-Letters.iml" filepath="$PROJECT_DIR$/../fullstack-challenges/01-Ruby/06-Parsing/02-Numbers-and-Letters/.idea/02-Numbers-and-Letters.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/rails-longest-word-game.iml" filepath="$PROJECT_DIR$/.idea/rails-longest-word-game.iml" />
     </modules>
   </component>
